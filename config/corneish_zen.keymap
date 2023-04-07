@@ -49,7 +49,7 @@
 // |  F1 |  F2  |  F3  |  F4  |  F5  |  F6  |   | PGUP  | Home |  UP   |  END  |      |       |
 // | F7 |  F8  |  F9  |  F10  |  F11  |  F12  |   | PGDWN | LFT  |  DWN  | RGHT  |   \   |   `   |
 // | SHFT |  BT0 |  BT1 |  BT2 | BT3 | BT CLR |   |    | <-   |  sk shift   |  ->  | CLOCK | CWORD |
-//                          | ALT |     | SPC |   | ENT   |      | ALT |
+//                          | FUNC | SPC | ALT |   | ENT   |  SPC  | SYM |
                         bindings = <
    &kp F1    &kp F2       &kp F3       &kp F4       &kp F5        &kp F6                &kp PG_UP &kp HOME      &kp UP     &kp END       &trans    &trans
    &kp F7    &kp F8       &kp F9       &kp F10      &kp F11       &kp F12               &kp PG_DN &kp LEFT      &kp DOWN   &kp RIGHT     &kp BSLH  &kp GRAVE
